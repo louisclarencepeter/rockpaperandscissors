@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-This is a simple web-based game of Rock, Paper, Scissors created using JavaScript and leter HTML and CSS will be incorporated!
+This is a simple web-based game of Rock, Paper, Scissors created using JavaScript and later HTML and CSS will be incorporated!
 
 ## How to Play
 
