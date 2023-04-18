@@ -33,3 +33,7 @@ If you have any suggestions or improvements for this game, feel free to open an 
 ## Credits
 
 This game was created by Louis Peter as a JavaScript coding exercise.
+
+## Note
+
+The project is still on going, the HTML and CSS files are yet to be added.
