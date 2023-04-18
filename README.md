@@ -32,4 +32,4 @@ If you have any suggestions or improvements for this game, feel free to open an 
 
 ## Credits
 
-This game was created by [Your Name Here] as a JavaScript coding exercise.
+This game was created by Louis Peter as a JavaScript coding exercise.
