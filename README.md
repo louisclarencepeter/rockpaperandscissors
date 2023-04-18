@@ -20,7 +20,7 @@ This game was created using JavaScript for the game logic and HTML/CSS for the u
 
 ## Code Overview
 
-The game logic is contained in the `thegame.js` file. The `playRound()` function determines the winner of each round, and the `game()` function manages the overall game flow.
+The game logic is contained in the `thegame.js` file. The `playGame()` function determines the winner of each round, and the `game()` function manages the overall game flow.
 
 The user interface is contained in the `index.html` file, which includes the game title, play button, weapon selection buttons, and result display.
 
