@@ -37,3 +37,9 @@ This game was created by Louis Peter as a JavaScript coding exercise.
 ## Note
 
 The project is still on going, the HTML and CSS files are yet to be added.
+
+## Progress
+
+![status](https://img.shields.io/badge/status-ongoing-orange?style=flat-square)
+![last commit counter](https://img.shields.io/github/last-commit/louisclarencepeter/Portfolio?style=flat-square)
+![languages](https://img.shields.io/github/languages/count/louisclarencepeter/Portfolio?style=flat-square)
